@@ -18,4 +18,4 @@ Zoek de volgende endpoints op:
 - Vraag de data van een specifieke pokemon op (bv. charmander): *https://pokeapi.co/api/v2/pokemon/charmander/*
 - Vraag de data van een specifieke pokemon-type op (bv. fire): *https://pokeapi.co/api/v2/type/fire/*
 - Vraag 1 lijst van de eerste 151 pokemon op: *https://pokeapi.co/api/v2/pokemon?limit=151*
-- Vraag 1 lijst van de volgende 151 pokemon op: *Noteer de endpoint hier*
+- Vraag 1 lijst van de volgende 151 pokemon op: *https://pokeapi.co/api/v2/pokemon?limit=151*
